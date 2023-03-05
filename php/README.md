@@ -1,4 +1,4 @@
-파일 저장 단계
+파일 저장 시 암호화 단계
     1. 전달 받은 파일 유무 확인
     
         if(!isset($_FILES['crop_img'])) throw new Exception("이미지 파일이 존재하지 않습니다.");

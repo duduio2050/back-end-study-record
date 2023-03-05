@@ -26,3 +26,7 @@ php.ini 기초 setting
 12. php -v 명령어 입력 후 php 버전 확인
 
 13. 설치 및 환경변수 셋팅 완료
+
+14. 라라벨 설치 시 php.ini 오류 시 extension = php_intl.dll , extension = php_fileinfo.dll 추가
+
+15. 그래도 설치가 안되는 경우 composer create-project laravel/laravel '앱 명' --ignore-platform-reqs
