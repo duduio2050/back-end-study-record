@@ -11,3 +11,18 @@ php.ini 기초 setting
 5. short_open_tag = On 변경
 
 6. Dynamic Extensions 주석 해제
+    curl, ftp, fileinfo, mbstring, mysqli ( 오라클이나 몽고db 사용 시  oci8_*, pdo 주석해제), openssl, 
+
+7. php 환경 변수 셋팅
+
+8. 윈도우 검색창에 환경 변수 검색
+
+9. 환경 변수 클릭
+
+10. 시스템 변수 > Path 선택 > 편집 클릭
+
+11. 새로 만들기 > C:\php8.1 (PHP 설치한 폴더 경로) > 확인
+
+12. php -v 명령어 입력 후 php 버전 확인
+
+13. 설치 및 환경변수 셋팅 완료
